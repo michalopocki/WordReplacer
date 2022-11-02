@@ -45,7 +45,3 @@ E:\VS202022Projects\WordReplacer\WordReplacerApp\obj\Release\pl\WordReplacerApp.
 E:\VS202022Projects\WordReplacer\WordReplacerApp\obj\Release\WordReplacerApp.csproj.CopyComplete
 E:\VS202022Projects\WordReplacer\WordReplacerApp\obj\Release\WordReplacerApp.exe
 E:\VS202022Projects\WordReplacer\WordReplacerApp\obj\Release\WordReplacerApp.pdb
-E:\VS202022Projects\WordReplacer\WordReplacerApp\bin\Release\WordReplacerApp.exe.manifest
-E:\VS202022Projects\WordReplacer\WordReplacerApp\bin\Release\WordReplacerApp.application
-E:\VS202022Projects\WordReplacer\WordReplacerApp\obj\Release\WordReplacerApp.exe.manifest
-E:\VS202022Projects\WordReplacer\WordReplacerApp\obj\Release\WordReplacerApp.application
