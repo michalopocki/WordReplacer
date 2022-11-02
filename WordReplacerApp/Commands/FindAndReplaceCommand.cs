@@ -38,7 +38,7 @@ namespace WordReplacerApp.Commands
             }
             catch (OperationCanceledException)
             {
-                
+
             }
         }
 
@@ -46,6 +46,8 @@ namespace WordReplacerApp.Commands
         {
             List<ReplaceText> replaceTexts = _mainViewModel.ReplaceTextList
                                 .Where(x => !string.IsNullOrEmpty(x.FromText) && !string.IsNullOrWhiteSpace(x.FromText))
+                                .GroupBy(x => x.FromText)
+                                .Select(x => x.First())
                                 //.DistinctBy(x => x.FromText)
                                 .ToList();
 
